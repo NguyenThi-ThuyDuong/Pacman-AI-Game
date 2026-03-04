@@ -117,9 +117,9 @@ class GameController(object):
         
         # In thông báo để biết đang chạy chế độ nào
         if algo_type:
-            print(f"Đã kích hoạt AI đồng bộ: {algo_type}")
+            print(f"Da kich hoat AI dong bo: {algo_type}")
         else:
-            print("Đã kích hoạt AI hỗn hợp (Mặc định của từng ma)")
+            print("da kich hoat AI mac dinh (mac dinh cho tung ma)")
 
     def checkEvents(self):
         for event in pygame.event.get():
