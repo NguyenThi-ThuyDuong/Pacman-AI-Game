@@ -13,4 +13,4 @@
  - Press s to start game using algorithm
  - Press a to run ghost by a*
  - Press d to run ghost by dfs
- - Press b to run ghost by bfs
+ - Press b to run ghost by bfs# Pacman-AI-Game
